@@ -26,14 +26,26 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "అ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
                 "sound": "ಅ",
                 "end": "ಮ್ಮ"
             },
-            "image": "/images/lesson1/a.WEBP",
+            "image": "./images/lesson1/a.WEBP",
             "sound": "./sounds/lesson1/a.mp3"
         }, {
             "id": 2,
@@ -60,7 +72,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఆ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -95,7 +119,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఇ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -130,7 +166,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఈ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -165,7 +213,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఉ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -200,7 +260,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఊ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -235,7 +307,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఋ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -270,7 +354,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ॠ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -305,7 +401,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ऌ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -340,7 +448,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ॡ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -375,7 +495,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ए",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -410,7 +542,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ऐ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -443,9 +587,21 @@ export const varnamala = {
                 "end": "mma"
             },
             "telugu": {
-                "beginning": "",
+                "beginning" : "",
                 "sound": "ओ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -480,7 +636,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "औ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -517,7 +685,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "क",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -551,7 +731,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ख",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -585,7 +777,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ग",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -619,7 +823,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "घ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -653,7 +869,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ङ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -687,7 +915,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "च",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -721,7 +961,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "छ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -755,7 +1007,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ज",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -789,7 +1053,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "झ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -823,7 +1099,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ञ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -857,7 +1145,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ट",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -891,7 +1191,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ठ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -925,7 +1237,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ड",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -959,7 +1283,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ढ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -993,7 +1329,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ण",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1027,7 +1375,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "त",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1061,7 +1421,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "थ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1095,7 +1467,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "द",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1129,7 +1513,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ध",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1163,7 +1559,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "न",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1197,7 +1605,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "प",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1231,7 +1651,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "फ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1265,7 +1697,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ब",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1299,7 +1743,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "भ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1333,7 +1789,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "म",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1367,7 +1835,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "य",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1401,7 +1881,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "र",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1435,7 +1927,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ल",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1469,7 +1973,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "व",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1503,7 +2019,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "श",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1537,7 +2065,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ष",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1571,7 +2111,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "स",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1605,7 +2157,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ह",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1639,7 +2203,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ळ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1673,7 +2249,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ऴ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1707,7 +2295,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ं",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1741,7 +2341,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ः",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1775,7 +2387,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ँ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1809,7 +2433,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ङ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
@@ -1843,7 +2479,19 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ङ",
-                "end": "మ్మ"
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
             },
             "kannada": {
                 "beginning": "",
