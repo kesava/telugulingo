@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/telugulingo/static/css/main.a2e3066e.css",
+    "main.js": "/telugulingo/static/js/main.fda65f68.js",
+    "static/js/787.32a16568.chunk.js": "/telugulingo/static/js/787.32a16568.chunk.js",
+    "index.html": "/telugulingo/index.html",
+    "main.a2e3066e.css.map": "/telugulingo/static/css/main.a2e3066e.css.map",
+    "main.fda65f68.js.map": "/telugulingo/static/js/main.fda65f68.js.map",
+    "787.32a16568.chunk.js.map": "/telugulingo/static/js/787.32a16568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e3066e.css",
+    "static/js/main.fda65f68.js"
+  ]
+}
