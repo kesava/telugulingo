@@ -125,12 +125,12 @@ export const varnamala = {
                         "ikkada", "here"
                     ],
                     [
-                        "ivāla", "today"
+                        "ivāḷa", "today"
                     ],
                     [
-                        "okka", "an"
+                        "ippudu", "now"
                     ],
-                    ["okka", "a certain"]
+                    ["ibbandi", "trouble"]
                 ]
             },
             "kannada": {
