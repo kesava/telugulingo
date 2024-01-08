@@ -46,7 +46,8 @@ export const varnamala = {
                 "end": "ಮ್ಮ"
             },
             "image": "./images/lesson1/a.WEBP",
-            "sound": "./sounds/lesson1/a.mp3"
+            "sound": "./sounds/lesson1/a.mp3",
+            "meaning": "mother"
         }, {
             "id": 2,
             "iast": {
@@ -93,6 +94,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/aa.WEBP",
             "sound": "./sounds/lesson1/aa.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 3,
@@ -140,6 +142,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/i.WEBP",
             "sound": "./sounds/lesson1/i.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 4,
@@ -187,6 +190,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ee.WEBP",
             "sound": "./sounds/lesson1/ee.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 5,
@@ -234,6 +238,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/u.WEBP",
             "sound": "./sounds/lesson1/u.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 6,
@@ -281,6 +286,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/oo.WEBP",
             "sound": "./sounds/lesson1/oo.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 7,
@@ -328,6 +334,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ru.WEBP",
             "sound": "./sounds/lesson1/ru.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 8,
@@ -375,6 +382,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/roo.WEBP",
             "sound": "./sounds/lesson1/roo.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 9,
@@ -422,6 +430,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/lu.WEBP",
             "sound": "./sounds/lesson1/lu.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 10,
@@ -469,6 +478,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/loo.WEBP",
             "sound": "./sounds/lesson1/loo.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 11,
@@ -516,6 +526,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/e.WEBP",
             "sound": "./sounds/lesson1/e.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 12,
@@ -563,6 +574,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ai.WEBP",
             "sound": "./sounds/lesson1/ai.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 13,
@@ -587,7 +599,7 @@ export const varnamala = {
                 "end": "mma"
             },
             "telugu": {
-                "beginning" : "",
+                "beginning": "",
                 "sound": "ओ",
                 "end": "మ్మ",
                 "examples": [
@@ -610,6 +622,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/o.WEBP",
             "sound": "./sounds/lesson1/o.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "id": 14,
@@ -657,6 +670,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/au.WEBP",
             "sound": "./sounds/lesson1/au.mp3",
+            "meaning": "mother",
             "notes": ""
         }
     ],
@@ -706,6 +720,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/k.WEBP",
             "sound": "./sounds/lesson1/k.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -752,6 +767,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/kh.WEBP",
             "sound": "./sounds/lesson1/kh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -798,6 +814,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/g.WEBP",
             "sound": "./sounds/lesson1/g.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -844,6 +861,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/gh.WEBP",
             "sound": "./sounds/lesson1/gh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -890,6 +908,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ng.WEBP",
             "sound": "./sounds/lesson1/ng.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -936,6 +955,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/c.WEBP",
             "sound": "./sounds/lesson1/c.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -982,6 +1002,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ch.WEBP",
             "sound": "./sounds/lesson1/ch.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1028,6 +1049,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/j.WEBP",
             "sound": "./sounds/lesson1/j.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1074,6 +1096,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/jh.WEBP",
             "sound": "./sounds/lesson1/jh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1120,6 +1143,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ny.WEBP",
             "sound": "./sounds/lesson1/ny.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1166,6 +1190,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/t.WEBP",
             "sound": "./sounds/lesson1/t.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1212,6 +1237,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/th.WEBP",
             "sound": "./sounds/lesson1/th.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1258,6 +1284,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/d.WEBP",
             "sound": "./sounds/lesson1/d.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1304,6 +1331,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/dh.WEBP",
             "sound": "./sounds/lesson1/dh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1350,6 +1378,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/n.WEBP",
             "sound": "./sounds/lesson1/n.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1396,6 +1425,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/t.WEBP",
             "sound": "./sounds/lesson1/t.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1442,6 +1472,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/th.WEBP",
             "sound": "./sounds/lesson1/th.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1488,6 +1519,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/d.WEBP",
             "sound": "./sounds/lesson1/d.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1534,6 +1566,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/dh.WEBP",
             "sound": "./sounds/lesson1/dh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1580,6 +1613,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/n.WEBP",
             "sound": "./sounds/lesson1/n.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1626,6 +1660,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/p.WEBP",
             "sound": "./sounds/lesson1/p.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1672,6 +1707,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ph.WEBP",
             "sound": "./sounds/lesson1/ph.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1718,6 +1754,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/b.WEBP",
             "sound": "./sounds/lesson1/b.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1764,6 +1801,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/bh.WEBP",
             "sound": "./sounds/lesson1/bh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1810,6 +1848,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/m.WEBP",
             "sound": "./sounds/lesson1/m.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1856,6 +1895,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/y.WEBP",
             "sound": "./sounds/lesson1/y.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1902,6 +1942,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/r.WEBP",
             "sound": "./sounds/lesson1/r.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1948,6 +1989,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/l.WEBP",
             "sound": "./sounds/lesson1/l.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -1994,6 +2036,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/v.WEBP",
             "sound": "./sounds/lesson1/v.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2040,6 +2083,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/sh.WEBP",
             "sound": "./sounds/lesson1/sh.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2086,6 +2130,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/s.WEBP",
             "sound": "./sounds/lesson1/s.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2132,6 +2177,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/s.WEBP",
             "sound": "./sounds/lesson1/s.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2178,6 +2224,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/h.WEBP",
             "sound": "./sounds/lesson1/h.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2224,6 +2271,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/l.WEBP",
             "sound": "./sounds/lesson1/l.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2270,6 +2318,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/l.WEBP",
             "sound": "./sounds/lesson1/l.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2316,6 +2365,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/m.WEBP",
             "sound": "./sounds/lesson1/m.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2362,6 +2412,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/h.WEBP",
             "sound": "./sounds/lesson1/h.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2408,6 +2459,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/m.WEBP",
             "sound": "./sounds/lesson1/m.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2454,6 +2506,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ng.WEBP",
             "sound": "./sounds/lesson1/ng.mp3",
+            "meaning": "mother",
             "notes": ""
         }, {
             "iast": {
@@ -2500,6 +2553,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ng.WEBP",
             "sound": "./sounds/lesson1/ng.mp3",
+            "meaning": "mother",
             "notes": ""
         }
     ]

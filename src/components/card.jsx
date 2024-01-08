@@ -4,9 +4,7 @@ export default function Card({character}) {
             <figure><img src={character.image} alt={character.iast.sound}/></figure>
             <div className="card-body items-center text-center">
                 <p className="sound text-4xl italic">{character.iast.sound}</p>
-                <p>{character.iast.beginning}
-                    <b className="text-xl italic">{character.iast.sound}</b>{character.iast.end}
-                    -- {character.telugu.beginning}<b>{character.telugu.sound}</b>{character.telugu.end}</p>
+                <p>{character.iast.beginning}<b className="text-xl">{character.iast.sound}</b>{character.iast.end} -- {character.telugu.beginning}<b>{character.telugu.sound}</b>{character.telugu.end} -- {character.meaning}</p>
 
                 <div className="overflow-x-auto">
                     <table className="table">
