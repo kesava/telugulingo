@@ -29,15 +29,15 @@ export const varnamala = {
                 "end": "మ్మ",
                 "examples": [
                     [
-                        "okka", "one"
+                        "amma", "mom"
                     ],
                     [
-                        "okka", "a"
+                        "akkada", "there"
                     ],
                     [
-                        "okka", "an"
+                        "ammamma", "grandma"
                     ],
-                    ["okka", "a certain"]
+                    ["ammāyi", "a girl"]
                 ]
             },
             "kannada": {
@@ -72,18 +72,18 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఆ",
-                "end": "మ్మ",
+                "end": "వు",
                 "examples": [
                     [
-                        "okka", "one"
+                        "āvakāya", "mango pickle"
                     ],
                     [
-                        "okka", "a"
+                        "āme", "she"
                     ],
                     [
-                        "okka", "an"
+                        "ākali", "hunger"
                     ],
-                    ["okka", "a certain"]
+                    ["āku", "a leaf"]
                 ]
             },
             "kannada": {
@@ -99,7 +99,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "i",
-                "end": "mma"
+                "end": "llu"
             },
             "ipa": {
                 "beginning": "",
@@ -119,13 +119,13 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఇ",
-                "end": "మ్మ",
+                "end": "ల్లు",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ikkada", "here"
                     ],
                     [
-                        "okka", "a"
+                        "ivāla", "today"
                     ],
                     [
                         "okka", "an"
