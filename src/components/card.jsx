@@ -6,7 +6,7 @@ export default function Card({character}) {
                 <figcaption className="pronunciation">{character.iast.beginning}<b className="text-xl">{character.iast.sound}</b>{character.iast.end} ⎯ {character.meaning}</figcaption>
             </figure>
             <div className="card-body items-center text-center">
-                <p className="sound text-4xl">{character.iast.sound}</p>
+                <p className="sound text-6xl">{character.iast.sound}</p>
                 <p className="pronunciation text-xl" dangerouslySetInnerHTML={{__html: character.pronunciation}}></p>
 
                 <div className="overflow-x-auto">
