@@ -176,15 +176,15 @@ export const varnamala = {
                 "end": "క",
                 "examples": [
                     [
-                        "okka", "one"
+                        "īla", "whistle"
                     ],
                     [
-                        "okka", "a"
+                        "īnāḍu", "today"
                     ],
                     [
-                        "okka", "an"
+                        "īga", "housefly"
                     ],
-                    ["okka", "a certain"]
+                    ["īsvaruḍu", "god"]
                 ]
             },
             "kannada": {
@@ -225,15 +225,15 @@ export const varnamala = {
                 "end": "డుత",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ugādi", "telugu new year"
                     ],
                     [
-                        "okka", "a"
+                        "ukku", "steel"
                     ],
                     [
-                        "okka", "an"
+                        "uppu", "salt"
                     ],
-                    ["okka", "a certain"]
+                    ["ummi", "spit, saliva"]
                 ]
             },
             "kannada": {
@@ -274,15 +274,15 @@ export const varnamala = {
                 "end": "యల",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ūru", "village"
                     ],
                     [
-                        "okka", "a"
+                        "ūha", "thought, imagination"
                     ],
                     [
-                        "okka", "an"
+                        "ūpiri", "breath"
                     ],
-                    ["okka", "a certain"]
+                    ["ūpu", "swinging"]
                 ]
             },
             "kannada": {
@@ -323,15 +323,15 @@ export const varnamala = {
                 "end": "",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ṛṭuvu", "season"
                     ],
                     [
-                        "okka", "a"
+                        "ṛnamu", "debt"
                     ],
                     [
-                        "okka", "an"
+                        "ṛṭvikudu", "priest"
                     ],
-                    ["okka", "a certain"]
+                    ["ṛjuvu", "straight"]
                 ]
             },
             "kannada": {
@@ -522,15 +522,15 @@ export const varnamala = {
                 "end": "డ",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ekkaḍa?", "where?"
                     ],
                     [
-                        "okka", "a"
+                        "enni?", "how many?"
                     ],
                     [
-                        "okka", "an"
+                        "evaru?", "who?"
                     ],
-                    ["okka", "a certain"]
+                    ["enduku?", "why?"]
                 ]
             },
             "kannada": {
@@ -571,15 +571,15 @@ export const varnamala = {
                 "end": "నుగు",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ēḍupu", "weeping"
                     ],
                     [
-                        "okka", "a"
+                        "ēdi?", "who? which? how?"
                     ],
                     [
-                        "okka", "an"
+                        "ēḍu", "seven"
                     ],
-                    ["okka", "a certain"]
+                    ["ēmo!", "i don't know!"]
                 ]
             },
             "kannada": {
@@ -619,15 +619,11 @@ export const varnamala = {
                 "end": "మ్మ",
                 "examples": [
                     [
-                        "okka", "one"
+                        "aikyam", "unity"
                     ],
                     [
-                        "okka", "a"
+                        "aivu", "a flaw"
                     ],
-                    [
-                        "okka", "an"
-                    ],
-                    ["okka", "a certain"]
                 ]
             },
             "kannada": {
@@ -637,7 +633,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ai.WEBP",
             "sound": "./sounds/lesson1/ye.mp3",
-            "meaning": "mother",
+            "meaning": "five",
             "notes": "",
             "pronunciation": "like the <b>e</b> in th<b>e</b>re, but held twice as long as <b>e</b>"
         }, {
@@ -645,7 +641,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "o",
-                "end": "mma"
+                "end": "ṭṭu"
             },
             "ipa": {
                 "beginning": "",
@@ -668,15 +664,15 @@ export const varnamala = {
                 "end": "మ్మ",
                 "examples": [
                     [
-                        "okka", "one"
+                        "oḍi", "lap"
                     ],
                     [
-                        "okka", "a"
+                        "okaṭi", "first, one"
                     ],
                     [
                         "okka", "an"
                     ],
-                    ["okka", "a certain"]
+                    ["oragu", "recline"]
                 ]
             },
             "kannada": {
@@ -686,7 +682,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/o.WEBP",
             "sound": "./sounds/lesson1/o.mp3",
-            "meaning": "mother",
+            "meaning": "promise",
             "notes": "",
             "pronunciation": "like the <b>o</b> in g<b>o</b>"
         }, {
@@ -694,7 +690,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "ō",
-                "end": "mma"
+                "end": "rpu"
             },
             "ipa": {
                 "beginning": "",
@@ -717,15 +713,15 @@ export const varnamala = {
                 "end": "మ్మ",
                 "examples": [
                     [
-                        "okka", "one"
+                        "ōpika", "patience"
                     ],
                     [
-                        "okka", "a"
+                        "ōmkāramu", "scared syllable"
                     ],
                     [
-                        "okka", "an"
+                        "ōṭami", "defeat"
                     ],
-                    ["okka", "a certain"]
+                    ["ōṭu", "vote"]
                 ]
             },
             "kannada": {
@@ -735,7 +731,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/longo.WEBP",
             "sound": "./sounds/lesson1/ye.mp3",
-            "meaning": "mother",
+            "meaning": "patience",
             "notes": "",
             "pronunciation": "like the <b>o</b> in p<b>e</b>pe, but held twice as long as <b>o</b>"
         }, {
@@ -743,7 +739,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "au",
-                "end": "mma"
+                "end": "nu"
             },
             "ipa": {
                 "beginning": "",
@@ -766,15 +762,11 @@ export const varnamala = {
                 "end": "మ్మ",
                 "examples": [
                     [
-                        "okka", "one"
+                        "auju", "servant"
                     ],
                     [
-                        "okka", "a"
+                        "auchiṭi", "appropriate"
                     ],
-                    [
-                        "okka", "an"
-                    ],
-                    ["okka", "a certain"]
                 ]
             },
             "kannada": {
@@ -784,7 +776,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/au.WEBP",
             "sound": "./sounds/lesson1/au.mp3",
-            "meaning": "mother",
+            "meaning": "yes",
             "notes": "",
             "pronunciation": "like the <b>ou</b> in <b>ou</b>t"
         }
