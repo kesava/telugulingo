@@ -48,7 +48,7 @@ export const varnamala = {
             "image": "./images/lesson1/a.WEBP",
             "sound": "./sounds/lesson1/a.mp3",
             "meaning": "mother",
-            "pronunciation": "like the <i>a</i> in org<i>a</i>n or the <i>u</i> in b<i>u</i>t",
+            "pronunciation": "like the <b>a</b> in org<b>a</b>n or the <b>u</b> in b<b>u</b>t",
         }, {
             "id": 2,
             "iast": {
@@ -97,7 +97,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/aa.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>a</i> in f<i>a</i>r but held twice as long as <i>a</i>."
+            "pronunciation": "like the <b>a</b> in f<b>a</b>r but held twice as long as <b>a</b>."
 
         }, {
             "id": 3,
@@ -147,7 +147,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/i.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>i</i> in p<i>i</i>n"
+            "pronunciation": "like the <b>i</b> in p<b>i</b>n"
         }, {
             "id": 4,
             "iast": {
@@ -196,7 +196,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/ee.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>i</i> in p<i>i</i>que but held twice as long as <i>i</i>."
+            "pronunciation": "like the <b>i</b> in p<b>i</b>que but held twice as long as <b>i</b>."
         }, {
             "id": 5,
             "iast": {
@@ -245,7 +245,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/u.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>u</i> in p<u>sh"
+            "pronunciation": "like the <b>u</b> in p<b>u</b>sh"
         }, {
             "id": 6,
             "iast": {
@@ -294,7 +294,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/oo.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>u</i> in r<i>u</i>le but held twice as long as <i>u</i>"
+            "pronunciation": "like the <b>u</b> in r<b>u</b>le but held twice as long as <b>u</b>"
         }, {
             "id": 7,
             "iast": {
@@ -343,7 +343,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/ru.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>ri</i> in <i>Ri</i>ta"
+            "pronunciation": "like the <b>ri</b> in <b>Ri</b>ta"
         }, {
             "id": 8,
             "iast": {
@@ -392,7 +392,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/roo.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>ri</i> in <i>Ri</i>ta but held twice as long as <i>ri</i>"
+            "pronunciation": "like the <b>ri</b> in <b>Ri</b>ta but held twice as long as <b>ri</b>"
         }, {
             "id": 9,
             "iast": {
@@ -441,7 +441,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/lu.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like <i>lree</i>"
+            "pronunciation": "like <b>lree</b>"
         }, {
             "id": 10,
             "iast": {
@@ -490,7 +490,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/loo.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like <i>lree</i> but held twice as long as <i>lree</i>"
+            "pronunciation": "like <b>lree</b> but held twice as long as <b>lree</b>"
         }, {
             "id": 11,
             "iast": {
@@ -539,7 +539,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/e.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>e</i> in th<i>e</i>y"
+            "pronunciation": "like the <b>e</b> in th<b>e</b>y"
         }, {
             "id": 12,
             "iast": {
@@ -636,7 +636,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>e</i> in th<i>e</i>re, but held twice as long as <i>e</i>"
+            "pronunciation": "like the <b>e</b> in th<b>e</b>re, but held twice as long as <b>e</b>"
         }, {
             "id": 14,
             "iast": {
@@ -685,7 +685,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/o.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>o</i> in g<i>o</i>"
+            "pronunciation": "like the <b>o</b> in g<b>o</b>"
         }, {
             "id": 15,
             "iast": {
@@ -734,7 +734,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>o</i> in p<i>e</i>pe, but held twice as long as <i>o</i>"
+            "pronunciation": "like the <b>o</b> in p<b>e</b>pe, but held twice as long as <b>o</b>"
         }, {
             "id": 16,
             "iast": {
@@ -783,7 +783,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/au.mp3",
             "meaning": "mother",
             "notes": "",
-            "pronunciation": "like the <i>ou</i> in <i>ou</i>t"
+            "pronunciation": "like the <b>ou</b> in <b>ou</b>t"
         }
     ],
     "consonants": [
