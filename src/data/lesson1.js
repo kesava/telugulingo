@@ -346,6 +346,7 @@ export const varnamala = {
             "pronunciation": "like the <b>ri</b> in <b>Ri</b>ta"
         }, {
             "id": 8,
+            notInUse: true,
             "iast": {
                 "beginning": "",
                 "sound": "ṝ",
@@ -395,6 +396,7 @@ export const varnamala = {
             "pronunciation": "like the <b>ri</b> in <b>Ri</b>ta but held twice as long as <b>ri</b>"
         }, {
             "id": 9,
+            notInUse: true,
             "iast": {
                 "beginning": "",
                 "sound": "ḷ",
@@ -444,6 +446,7 @@ export const varnamala = {
             "pronunciation": "like <b>lree</b>"
         }, {
             "id": 10,
+            notInUse: true,
             "iast": {
                 "beginning": "",
                 "sound": "ḹ",
@@ -632,7 +635,7 @@ export const varnamala = {
                 "sound": "ऐ",
                 "end": "ಮ್ಮ"
             },
-            "image": "./images/lesson1/ye.WEBP",
+            "image": "./images/lesson1/ai.WEBP",
             "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "mother",
             "notes": "",
@@ -730,7 +733,7 @@ export const varnamala = {
                 "sound": "ऐ",
                 "end": "ಮ್ಮ"
             },
-            "image": "./images/lesson1/ye.WEBP",
+            "image": "./images/lesson1/longo.WEBP",
             "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "mother",
             "notes": "",
@@ -976,6 +979,7 @@ export const varnamala = {
             "meaning": "mother",
             "notes": ""
         }, {
+            notInUse: true,
             "iast": {
                 "beginning": "",
                 "sound": "ṅ",
