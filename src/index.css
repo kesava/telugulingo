@@ -27,7 +27,10 @@ code {
         font-weight: 900;
     }
 
-
+    .card figure {
+        padding-top: 0px;
+    }
+    
     figure {
         display: flex;
         flex-flow: column;
