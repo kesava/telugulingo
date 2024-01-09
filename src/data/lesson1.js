@@ -47,7 +47,8 @@ export const varnamala = {
             },
             "image": "./images/lesson1/a.WEBP",
             "sound": "./sounds/lesson1/a.mp3",
-            "meaning": "mother"
+            "meaning": "mother",
+            "pronunciation": "like the <i>a</i> in org<i>a</i>n or the <i>u</i> in b<i>u</i>t",
         }, {
             "id": 2,
             "iast": {
@@ -95,7 +96,9 @@ export const varnamala = {
             "image": "./images/lesson1/aa.WEBP",
             "sound": "./sounds/lesson1/aa.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>a</i> in f<i>a</i>r but held twice as long as <i>a</i>."
+
         }, {
             "id": 3,
             "iast": {
@@ -143,7 +146,8 @@ export const varnamala = {
             "image": "./images/lesson1/i.WEBP",
             "sound": "./sounds/lesson1/i.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>i</i> in p<i>i</i>n"
         }, {
             "id": 4,
             "iast": {
@@ -191,7 +195,8 @@ export const varnamala = {
             "image": "./images/lesson1/ee.WEBP",
             "sound": "./sounds/lesson1/ee.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>i</i> in p<i>i</i>que but held twice as long as <i>i</i>."
         }, {
             "id": 5,
             "iast": {
@@ -239,7 +244,8 @@ export const varnamala = {
             "image": "./images/lesson1/u.WEBP",
             "sound": "./sounds/lesson1/u.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>u</i> in p<u>sh"
         }, {
             "id": 6,
             "iast": {
@@ -287,7 +293,8 @@ export const varnamala = {
             "image": "./images/lesson1/oo.WEBP",
             "sound": "./sounds/lesson1/oo.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>u</i> in r<i>u</i>le but held twice as long as <i>u</i>"
         }, {
             "id": 7,
             "iast": {
@@ -335,7 +342,8 @@ export const varnamala = {
             "image": "./images/lesson1/ru.WEBP",
             "sound": "./sounds/lesson1/ru.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>ri</i> in <i>Ri</i>ta"
         }, {
             "id": 8,
             "iast": {
@@ -383,7 +391,8 @@ export const varnamala = {
             "image": "./images/lesson1/roo.WEBP",
             "sound": "./sounds/lesson1/roo.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>ri</i> in <i>Ri</i>ta but held twice as long as <i>ri</i>"
         }, {
             "id": 9,
             "iast": {
@@ -431,7 +440,8 @@ export const varnamala = {
             "image": "./images/lesson1/lu.WEBP",
             "sound": "./sounds/lesson1/lu.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like <i>lree</i>"
         }, {
             "id": 10,
             "iast": {
@@ -479,7 +489,8 @@ export const varnamala = {
             "image": "./images/lesson1/loo.WEBP",
             "sound": "./sounds/lesson1/loo.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like <i>lree</i> but held twice as long as <i>lree</i>"
         }, {
             "id": 11,
             "iast": {
@@ -527,12 +538,13 @@ export const varnamala = {
             "image": "./images/lesson1/e.WEBP",
             "sound": "./sounds/lesson1/e.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>e</i> in th<i>e</i>y"
         }, {
             "id": 12,
             "iast": {
                 "beginning": "",
-                "sound": "ai",
+                "sound": "ē",
                 "end": "mma"
             },
             "ipa": {
@@ -547,7 +559,7 @@ export const varnamala = {
             },
             "english": {
                 "beginning": "",
-                "sound": "ai",
+                "sound": "ye",
                 "end": "mma"
             },
             "telugu": {
@@ -572,12 +584,61 @@ export const varnamala = {
                 "sound": "ऐ",
                 "end": "ಮ್ಮ"
             },
-            "image": "./images/lesson1/ai.WEBP",
-            "sound": "./sounds/lesson1/ai.mp3",
+            "image": "./images/lesson1/ye.WEBP",
+            "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "mother",
             "notes": ""
         }, {
             "id": 13,
+            "iast": {
+                "beginning": "",
+                "sound": "ai",
+                "end": "mma"
+            },
+            "ipa": {
+                "beginning": "",
+                "sound": "əi",
+                "end": "mma"
+            },
+            "sanskrit": {
+                "beginning": "",
+                "sound": "ऐ", // not existant in sanskit
+                "end": "म्म"
+            },
+            "english": {
+                "beginning": "",
+                "sound": "ye",
+                "end": "mma"
+            },
+            "telugu": {
+                "beginning": "",
+                "sound": "ye",
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
+            },
+            "kannada": {
+                "beginning": "",
+                "sound": "ऐ",
+                "end": "ಮ್ಮ"
+            },
+            "image": "./images/lesson1/ye.WEBP",
+            "sound": "./sounds/lesson1/ye.mp3",
+            "meaning": "mother",
+            "notes": "",
+            "pronunciation": "like the <i>e</i> in th<i>e</i>re, but held twice as long as <i>e</i>"
+        }, {
+            "id": 14,
             "iast": {
                 "beginning": "",
                 "sound": "o",
@@ -623,9 +684,59 @@ export const varnamala = {
             "image": "./images/lesson1/o.WEBP",
             "sound": "./sounds/lesson1/o.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>o</i> in g<i>o</i>"
         }, {
-            "id": 14,
+            "id": 15,
+            "iast": {
+                "beginning": "",
+                "sound": "ō",
+                "end": "mma"
+            },
+            "ipa": {
+                "beginning": "",
+                "sound": "əi",
+                "end": "mma"
+            },
+            "sanskrit": {
+                "beginning": "",
+                "sound": "ऐ", // not existant in sanskit
+                "end": "म्म"
+            },
+            "english": {
+                "beginning": "",
+                "sound": "o",
+                "end": "mma"
+            },
+            "telugu": {
+                "beginning": "",
+                "sound": "ऐ",
+                "end": "మ్మ",
+                "examples": [
+                    [
+                        "okka", "one"
+                    ],
+                    [
+                        "okka", "a"
+                    ],
+                    [
+                        "okka", "an"
+                    ],
+                    ["okka", "a certain"]
+                ]
+            },
+            "kannada": {
+                "beginning": "",
+                "sound": "ऐ",
+                "end": "ಮ್ಮ"
+            },
+            "image": "./images/lesson1/ye.WEBP",
+            "sound": "./sounds/lesson1/ye.mp3",
+            "meaning": "mother",
+            "notes": "",
+            "pronunciation": "like the <i>o</i> in p<i>e</i>pe, but held twice as long as <i>o</i>"
+        }, {
+            "id": 16,
             "iast": {
                 "beginning": "",
                 "sound": "au",
@@ -671,7 +782,8 @@ export const varnamala = {
             "image": "./images/lesson1/au.WEBP",
             "sound": "./sounds/lesson1/au.mp3",
             "meaning": "mother",
-            "notes": ""
+            "notes": "",
+            "pronunciation": "like the <i>ou</i> in <i>ou</i>t"
         }
     ],
     "consonants": [

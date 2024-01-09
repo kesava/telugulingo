@@ -18,6 +18,12 @@ code {
     monospace;
 }
 
-sound {
+.sound {
     font-family: 'Playfair Display', serif;
 }
+
+.pronunciation i, b {
+        font-family: 'Playfair Display', serif;
+        font-weight: 900;
+    }
+
