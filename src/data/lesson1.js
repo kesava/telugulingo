@@ -95,7 +95,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/aa.WEBP",
             "sound": "./sounds/lesson1/aa.mp3",
-            "meaning": "mother",
+            "meaning": "cow",
             "notes": "",
             "pronunciation": "like the <b>a</b> in f<b>a</b>r but held twice as long as <b>a</b>."
 
@@ -145,7 +145,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/i.WEBP",
             "sound": "./sounds/lesson1/i.mp3",
-            "meaning": "mother",
+            "meaning": "house",
             "notes": "",
             "pronunciation": "like the <b>i</b> in p<b>i</b>n"
         }, {
@@ -153,7 +153,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "ī",
-                "end": "mma"
+                "end": "ka"
             },
             "ipa": {
                 "beginning": "",
@@ -173,7 +173,7 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఈ",
-                "end": "మ్మ",
+                "end": "క",
                 "examples": [
                     [
                         "okka", "one"
@@ -194,7 +194,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ee.WEBP",
             "sound": "./sounds/lesson1/ee.mp3",
-            "meaning": "mother",
+            "meaning": "feather",
             "notes": "",
             "pronunciation": "like the <b>i</b> in p<b>i</b>que but held twice as long as <b>i</b>."
         }, {
@@ -202,7 +202,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "u",
-                "end": "mma"
+                "end": "ḍutha"
             },
             "ipa": {
                 "beginning": "",
@@ -222,7 +222,7 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఉ",
-                "end": "మ్మ",
+                "end": "డుత",
                 "examples": [
                     [
                         "okka", "one"
@@ -243,7 +243,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/u.WEBP",
             "sound": "./sounds/lesson1/u.mp3",
-            "meaning": "mother",
+            "meaning": "squirrel",
             "notes": "",
             "pronunciation": "like the <b>u</b> in p<b>u</b>sh"
         }, {
@@ -251,7 +251,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "ū",
-                "end": "mma"
+                "end": "yala"
             },
             "ipa": {
                 "beginning": "",
@@ -271,7 +271,7 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఊ",
-                "end": "మ్మ",
+                "end": "యల",
                 "examples": [
                     [
                         "okka", "one"
@@ -292,7 +292,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/oo.WEBP",
             "sound": "./sounds/lesson1/oo.mp3",
-            "meaning": "mother",
+            "meaning": "swing",
             "notes": "",
             "pronunciation": "like the <b>u</b> in r<b>u</b>le but held twice as long as <b>u</b>"
         }, {
@@ -300,7 +300,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "ṛ",
-                "end": "mma"
+                "end": "shi"
             },
             "ipa": {
                 "beginning": "",
@@ -320,7 +320,7 @@ export const varnamala = {
             "telugu": {
                 "beginning": "",
                 "sound": "ఋ",
-                "end": "మ్మ",
+                "end": "",
                 "examples": [
                     [
                         "okka", "one"
@@ -339,9 +339,9 @@ export const varnamala = {
                 "sound": "ಋ",
                 "end": "ಮ್ಮ"
             },
-            "image": "./images/lesson1/ru.WEBP",
+            "image": "./images/lesson1/ri.WEBP",
             "sound": "./sounds/lesson1/ru.mp3",
-            "meaning": "mother",
+            "meaning": "sage",
             "notes": "",
             "pronunciation": "like the <b>ri</b> in <b>Ri</b>ta"
         }, {
@@ -496,7 +496,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "e",
-                "end": "mma"
+                "end": "nḍa"
             },
             "ipa": {
                 "beginning": "",
@@ -511,12 +511,12 @@ export const varnamala = {
             "english": {
                 "beginning": "",
                 "sound": "e",
-                "end": "mma"
+                "end": "nda"
             },
             "telugu": {
                 "beginning": "",
-                "sound": "ए",
-                "end": "మ్మ",
+                "sound": "ఎం",
+                "end": "డ",
                 "examples": [
                     [
                         "okka", "one"
@@ -537,7 +537,7 @@ export const varnamala = {
             },
             "image": "./images/lesson1/e.WEBP",
             "sound": "./sounds/lesson1/e.mp3",
-            "meaning": "mother",
+            "meaning": "scortching sun",
             "notes": "",
             "pronunciation": "like the <b>e</b> in th<b>e</b>y"
         }, {
@@ -545,7 +545,7 @@ export const varnamala = {
             "iast": {
                 "beginning": "",
                 "sound": "ē",
-                "end": "mma"
+                "end": "nugu"
             },
             "ipa": {
                 "beginning": "",
@@ -564,8 +564,8 @@ export const varnamala = {
             },
             "telugu": {
                 "beginning": "",
-                "sound": "ऐ",
-                "end": "మ్మ",
+                "sound": "ఏ",
+                "end": "నుగు",
                 "examples": [
                     [
                         "okka", "one"
@@ -586,14 +586,14 @@ export const varnamala = {
             },
             "image": "./images/lesson1/ye.WEBP",
             "sound": "./sounds/lesson1/ye.mp3",
-            "meaning": "mother",
+            "meaning": "elephant",
             "notes": ""
         }, {
             "id": 13,
             "iast": {
                 "beginning": "",
                 "sound": "ai",
-                "end": "mma"
+                "end": "du"
             },
             "ipa": {
                 "beginning": "",
