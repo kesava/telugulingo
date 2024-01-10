@@ -10,7 +10,7 @@ export default function Card({character}) {
                 <p className="pronunciation text-xl" dangerouslySetInnerHTML={{__html: character.pronunciation}}></p>
 
                 <div className="overflow-x-auto">
-                    <table className="table">
+                    <table className="table text-lg">
                         <tbody>
                             {character
                                 .telugu

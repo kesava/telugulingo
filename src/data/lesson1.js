@@ -635,7 +635,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "five",
             "notes": "",
-            "pronunciation": "like the <b>e</b> in th<b>e</b>re, but held twice as long as <b>e</b>"
+            "pronunciation": "like the word <b>eye</b>"
         }, {
             "id": 14,
             "iast": {
@@ -733,7 +733,7 @@ export const varnamala = {
             "sound": "./sounds/lesson1/ye.mp3",
             "meaning": "patience",
             "notes": "",
-            "pronunciation": "like the <b>o</b> in p<b>e</b>pe, but held twice as long as <b>o</b>"
+            "pronunciation": "like the <b>o</b> in p<b>o</b>pe, but held twice as long as <b>o</b>"
         }, {
             "id": 16,
             "iast": {
